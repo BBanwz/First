@@ -12,6 +12,6 @@ public class Main {
         parallelogram.setLength_b(2.5);
         System.out.println(parallelogram.calcarea());
         System.out.println(parallelogram.calcper());
-        ///
+        
     }
 }
